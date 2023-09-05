@@ -1,0 +1,1 @@
+#Function เเบบที่ 1 - No:parameter/Have:return
